@@ -1,0 +1,23 @@
+version: '2.1'
+services:
+  
+  clickhouse:
+    image: yandex/clickhouse-server
+    ports:
+      - "8123:8123"
+    restart: always
+    container_name: clickhouse
+    networks:
+      backend:
+        aliases:
+          - "clickhouse"
+  
+
+
+
+volumes:
+  esdata1:
+    driver: local
+networks:
+  backend:
+    driver: bridge
