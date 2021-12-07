@@ -6,3 +6,7 @@ It has parallel processing for single query and distributed processing on multip
 
 For more >> [Clickhouse](https://content.clickhouse.tech/docs/en/single/clickhouse_en.pdf)
 
+
+
+
+https://blog.timescale.com/content/images/2021/10/01-timescale-vs-clickhouse-1.jpg
