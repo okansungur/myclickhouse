@@ -9,4 +9,4 @@ For more >> [Clickhouse](https://content.clickhouse.tech/docs/en/single/clickhou
 
 
 
-https://blog.timescale.com/content/images/2021/10/01-timescale-vs-clickhouse-1.jpg
+
